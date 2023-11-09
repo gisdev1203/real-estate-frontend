@@ -1,0 +1,12 @@
+.banner.banner-2 .acr-arrows .slider-next {
+  top: 285px !important;
+  right: 65px;
+}
+.banner.banner-2 .acr-arrows .slider-prev {
+  top: 285px !important;
+  left: 65px;
+}
+
+.slick-slider .slick-track{
+  height: 605px;
+}

@@ -1,0 +1,197 @@
+{
+  "blogblock": [
+    {
+      "id": 1,
+      "gridimg": "assets/img/blog/1.jpg",
+      "listimg": "assets/img/blog-list/1.jpg",
+      "authorimg": "assets/img/people/2.jpg",
+      "authorname": "Heather Mclayn",
+      "postdate": "March 3, 2020",
+      "title": "What agencies are looking for in an agent",
+      "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "tagslist": [
+        {
+          "title": "House"
+        }
+      ],
+      "totalcomment": 7,
+      "usercomment": [
+        {
+          "img": "assets/img/people/1.jpg"
+        },
+        {
+          "img": "assets/img/people/5.jpg"
+        }
+      ],
+      "recent": true
+    },
+    {
+      "id": 2,
+      "gridimg": "assets/img/blog/2.jpg",
+      "listimg": "assets/img/blog-list/2.jpg",
+      "authorimg": "assets/img/people/2.jpg",
+      "authorname": "Heather Mclayn",
+      "postdate": "March 3, 2020",
+      "title": "Changing the way we sell and buy real estate",
+      "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "tagslist": [
+        {
+          "title": "Real Estate"
+        },
+        {
+          "title": "Building"
+        }
+      ],
+      "totalcomment": "",
+      "usercomment": [],
+      "recent": true
+    },
+    {
+      "id": 3,
+      "gridimg": "assets/img/blog/3.jpg",
+      "listimg": "assets/img/blog-list/3.jpg",
+      "authorimg": "assets/img/people/1.jpg",
+      "authorname": "Randy Blue",
+      "postdate": "March 13, 2020",
+      "title": "Families, its the best time to start buying",
+      "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "tagslist": [
+        {
+          "title": "Agency"
+        }
+      ],
+      "totalcomment": 3,
+      "usercomment": [
+        {
+          "img": "assets/img/people/3.jpg"
+        },
+        {
+          "img": "assets/img/people/4.jpg"
+        }
+      ],
+      "recent": true
+    },
+    {
+      "id": 4,
+      "gridimg": "assets/img/blog/4.jpg",
+      "listimg": "assets/img/blog-list/4.jpg",
+      "authorimg": "assets/img/people/2.jpg",
+      "authorname": "Heather Mclayn",
+      "postdate": "March 3, 2020",
+      "title": "Our all new duplex apartment is up for grabs",
+      "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "tagslist": [
+        {
+          "title": "Family"
+        }
+      ],
+      "totalcomment": "",
+      "usercomment": [],
+      "recent": true
+    },
+    {
+      "id": 5,
+      "gridimg": "assets/img/blog/5.jpg",
+      "listimg": "assets/img/blog-list/5.jpg",
+      "authorimg": "assets/img/people/1.jpg",
+      "authorname": "Randy Blue",
+      "postdate": "March 3, 2020",
+      "title": "Villa sales are going down this year, find out why",
+      "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "tagslist": [
+        {
+          "title": "Acres"
+        }
+      ],
+      "totalcomment": "",
+      "usercomment": [],
+      "recent": false
+    },
+    {
+      "id": 6,
+      "gridimg": "assets/img/blog/6.jpg",
+      "listimg": "assets/img/blog-list/6.jpg",
+      "authorimg": "assets/img/people/2.jpg",
+      "authorname": "Heather Mclayn",
+      "postdate": "March 3, 2020",
+      "title": "Flats in wisconsin are being held for rental",
+      "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "tagslist": [
+        {
+          "title": "Baths"
+        },
+        {
+          "title": "Rooms"
+        }
+      ],
+      "totalcomment": 3,
+      "usercomment": [
+        {
+          "img": "assets/img/people/3.jpg"
+        },
+        {
+          "img": "assets/img/people/4.jpg"
+        }
+      ],
+      "recent": false
+    }
+  ],
+  "blogcategory": [
+    {
+      "id": 1,
+      "title": "Living Rooms",
+      "count": 24
+    },
+    {
+      "id": 2,
+      "title": "Real Estate",
+      "count": 16
+    },
+    {
+      "id": 3,
+      "title": "Kitchens",
+      "count": 32
+    },
+    {
+      "id": 4,
+      "title": "Flats",
+      "count": 22
+    },
+    {
+      "id": 5,
+      "title": "Luxury",
+      "count": 15
+    },
+    {
+      "id": 6,
+      "title": "Bed Rooms",
+      "count": 8
+    }
+  ],
+  "blogcomment": [
+    {
+      "id": 1,
+      "userimg": "assets/img/people/1.jpg",
+      "username": "Randy Blue",
+      "commentdate": "December 10 2020",
+      "comment": "Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.",
+      "replies": [
+        {
+          "id": 11,
+          "userimg": "assets/img/people/3.jpg",
+          "username": "Melany frank",
+          "commentdate": "December 10 2020",
+          "comment": "Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "userimg": "assets/img/people/2.jpg",
+      "username": "Heather Mclayn",
+      "commentdate": "December 8 2020",
+      "comment": "Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches",
+      "replies": []
+    }
+  ]
+}

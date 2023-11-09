@@ -1,0 +1,287 @@
+[
+    {
+        "id": 1,
+        "linkText": "About Us",
+        "link": "/about",
+        "child": false,
+        "icon":"home",
+        "submenu": [
+            {
+                "id": 11,
+                "link": "/",
+                "linkText": "Home v1"
+            },
+            {
+                "id": 12,
+                "link": "/home-v2",
+                "linkText": "Home v2"
+            },
+            {
+                "id": 13,
+                "link": "/home-v3",
+                "linkText": "Home v3"
+            },
+            {
+                "id": 14,
+                "link": "/home-v4",
+                "linkText": "Home v4"
+            },
+            {
+                "id": 15,
+                "link": "/home-v5",
+                "linkText": "Home v5"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "linkText": "Services",
+        "link": "/",
+        "child": false,
+        "icon":"writing-1",
+        "submenu": [
+            {
+                "id": 21,
+                "child": false,
+                "linkText": "Blog Archive",
+                "submenu": [
+                    {
+                        "id": 211,
+                        "link": "/blog-grid",
+                        "linkText": "Grid View"
+                    },
+                    {
+                        "id": 212,
+                        "link": "/blog-list",
+                        "linkText": "List View"
+                    }
+                ]
+            },
+            {
+                "id": 22,
+                "link": "/blog-single",
+                "linkText": "Blog Single"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "linkText": "Buy",
+        "link": "#",
+        "child": false,
+        "icon":"layers",
+        "submenu": [
+            {
+                "id": 31,
+                "link": "/about",
+                "linkText": "About Us"
+            },
+            {
+                "id": 32,
+                "link": "/services",
+                "linkText": "Services"
+            },
+            {
+                "id": 33,
+                "link": "/faq",
+                "linkText": "FAQ"
+            },
+            {
+                "id": 34,
+                "link": "/pricing",
+                "linkText": "Pricing"
+            },
+            {
+                "id": 35,
+                "link": "/contact",
+                "linkText": "Contact Us"
+            },
+            {
+                "id": 36,
+                "link": "/coming-soon",
+                "linkText": "Coming Soon"
+            },
+            {
+                "id": 37,
+                "link": "/error-404",
+                "linkText": "404 Page"
+            },
+            {
+                "id": 38,
+                "link": "/login",
+                "linkText": "Login"
+            },
+            {
+                "id": 39,
+                "link": "/register",
+                "linkText": "Register"
+            },
+            {
+                "id": 310,
+                "link": "/legal",
+                "linkText": "Legal"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "linkText": "Sell",
+        "link": "#",
+        "child": false,
+        "icon":"list",
+        "submenu": [
+            {
+                "id": 41,
+                "child": false,
+                "linkText": "Listings Archive",
+                "submenu": [
+                    {
+                        "id": 411,
+                        "link": "/listing-grid",
+                        "linkText": "Grid View"
+                    },
+                    {
+                        "id": 412,
+                        "link": "/listing-list",
+                        "linkText": "List View"
+                    },
+                    {
+                        "id": 413,
+                        "link": "/listing-map",
+                        "linkText": "Map View"
+                    }
+                ]
+            },
+            {
+                "id": 42,
+                "child": false,
+                "linkText": "Listings Details",
+                "submenu": [
+                    {
+                        "id": 421,
+                        "link": "/listing-details-v1",
+                        "linkText": "Listing Details v1"
+                    },
+                    {
+                        "id": 422,
+                        "link": "/listing-details-v2",
+                        "linkText": "Listing Details v2"
+                    },
+                    {
+                        "id": 423,
+                        "link": "/listing-details-v3",
+                        "linkText": "Listing Details v3"
+                    }
+                ]
+            },
+            {
+                "id": 43,
+                "link": "/submit-listing",
+                "linkText": "Submit Listing"
+            },
+            {
+                "id": 44,
+                "link": "/compare-listings",
+                "linkText": "Compare Listings"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "linkText": "Rent",
+        "link": "#",
+        "child": false,
+        "icon":"headset",
+        "submenu": [
+            {
+                "id": 51,
+                "link": "/agent-archive",
+                "linkText": "Agents Archive"
+            },
+            {
+                "id": 52,
+                "link": "/agent-details",
+                "linkText": "Agents Details"
+            },
+            {
+                "id": 53,
+                "child": false,
+                "linkText": "Agent Profile",
+                "submenu": [
+                    {
+                        "id": 531,
+                        "link": "/profile",
+                        "linkText": "My Account"
+                    },
+                    {
+                        "id": 532,
+                        "link": "/profile-listings",
+                        "linkText": "My Listings"
+                    },
+                    {
+                        "id": 533,
+                        "link": "/profile-saved-listings",
+                        "linkText": "Saved Listings"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "linkText": "Think to know",
+        "link": "#",
+        "child": false,
+        "icon":"writing-1",
+        "submenu": [
+            {
+                "id": 61,
+                "link": "/agency-archive",
+                "linkText": "Agency Archive"
+            },
+            {
+                "id": 62,
+                "link": "/agency-details",
+                "linkText": "Agency Details"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "linkText": "Finance",
+        "link": "#",
+        "child": false,
+        "icon":"layers",
+        "submenu": [
+            {
+                "id": 61,
+                "link": "/agency-archive",
+                "linkText": "Agency Archive"
+            },
+            {
+                "id": 62,
+                "link": "/agency-details",
+                "linkText": "Agency Details"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "linkText": "Agents",
+        "link": "#",
+        "child": false,
+        "icon":"company",
+        "submenu": [
+            {
+                "id": 61,
+                "link": "/agency-archive",
+                "linkText": "Agency Archive"
+            },
+            {
+                "id": 62,
+                "link": "/agency-details",
+                "linkText": "Agency Details"
+            }
+        ]
+    }
+]

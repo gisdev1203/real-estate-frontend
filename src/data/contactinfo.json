@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "icon": "telephone",
+        "title": "Reach Out",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "btntext": "Call Us",
+        "btnurl": "tel:+123456789"
+    },
+    {
+        "id": 2,
+        "icon": "location",
+        "title": "Find Us",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "btntext": "Get Directions",
+        "btnurl": "#"
+    },
+    {
+        "id": 3,
+        "icon": "speech-bubble",
+        "title": "Get Support",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "btntext": "Start Chat",
+        "btnurl": "#"
+    }
+]

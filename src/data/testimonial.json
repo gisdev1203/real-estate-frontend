@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "title": "Perfect service",
+        "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry",
+        "author": "John Mishlen",
+        "post": "Executive CEO at company",
+        "authorimg": "assets/img/people/1.jpg",
+        "rating": 5
+    },
+    {
+        "id": 2,
+        "title": "Competitive prices",
+        "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry",
+        "author": "Moe Sondi",
+        "post": "Executive CEO at company",
+        "authorimg": "assets/img/people/2.jpg",
+        "rating": 4
+    },
+    {
+        "id": 3,
+        "title": "Great agents",
+        "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry",
+        "author": "Mandy Floss",
+        "post": "Executive CEO at company",
+        "authorimg": "assets/img/people/3.jpg",
+        "rating": 4
+    }
+]

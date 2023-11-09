@@ -1,0 +1,157 @@
+/* Simply Replace the colors in this stylesheet to your brand. */
+
+/*===============================================
+PRIMARY COLOR Default: #519fff
+==============================================*/
+.lds-grid div,
+.primary-bg, blockquote,
+.custom-radio .custom-control-input:checked ~ .custom-control-label::before,
+.custom-checkbox .custom-control-input:checked ~ .custom-control-label::before,
+.btn-custom,
+.btn-custom-2,
+.btn-custom.primary,
+.badge.badge-primary,
+.nav-tabs .nav-link::before,
+.nav-tabs.tab-cards .nav-item.show .nav-link,
+.nav-tabs.tab-cards .nav-link.active,
+.aside-toggler:hover span, .acr-category.category-2:hover,
+.slick-dots li.slick-active button, .acr-arrows .slick-arrow::after,
+.header-controls-inner li.cart-dropdown-wrapper i::after,
+.acr-arrows .slick-arrow:hover, .acr-arrows.primary-arrows .slick-arrow,
+.acr-slider-arrows i, .listing .listing-thumbnail a:hover,
+.listing .listing-gallery-wrapper .listing-gallery:hover,
+.mapboxgl-popup-close-button:hover, .acr-toggle-views a.active,
+.user-nav li a.active{
+  background-color: #519fff;
+}
+
+a,
+.select2-container--default .select2-results__option--highlighted[aria-selected],
+.select2-container--default .select2-results__option[aria-selected=true],
+.btn-custom-2.grey:hover, .btn-custom-2.grey:hover i, .custom-primary,
+.nav-tabs .nav-link:hover,
+.nav-tabs .nav-item.show .nav-link,
+.nav-tabs .nav-link.active,
+.nav-tabs.tab-cards .nav-item.show .nav-link span,
+.nav-tabs.tab-cards .nav-link.active span,
+.navbar .menu-item a.active,
+.navbar .menu-item a:hover,
+.navbar .menu-item .submenu .menu-item a:hover,
+.main-header.header-2 .navbar .menu-item .submenu .menu-item a:hover,
+.acr-language-selector .dropdown-menu li:hover,
+.footer-btn a i,
+.acr-listing-details .acr-listing-section h4 a:hover,
+.breadcrumb li a:hover,
+.cta.cta-2.item1 > i,
+.cta.cta-2.item1 a, .acr-agent-body h6 a:hover,
+.acr-arrows.acr-arrows-relative .slick-arrow,
+.pagination .page-item.active .page-link,
+.pagination .page-item .page-link:hover,
+.pagination .page-item .page-link:focus,
+.media-body h6 a:hover, .accordion .card-header[aria-expanded="true"] i,
+.social-media a:hover, .search-wrapper button,
+.sidebar-author-personal a:hover, .listing .listing-price,
+.acr-listing-popup-body .listing-price{
+  color: #519fff;
+}
+
+.custom-radio .custom-control-input:checked ~ .custom-control-label::before,
+.custom-checkbox .custom-control-input:checked ~ .custom-control-label::before,
+.btn-custom-2.grey:hover, .acr-arrows .slick-arrow:hover,
+.acr-arrows.primary-arrows .slick-arrow,
+.acr-arrows.acr-arrows-relative .slick-arrow:hover{
+  border-color: #519fff;
+}
+
+/*===============================================
+PRIMARY COLOR (HOVER & FOCUS)  Default: #478adc
+==============================================*/
+a:hover,
+a:focus,
+.btn-link:hover,
+.btn-link:focus,
+.acr-footer a:hover,
+.post .post-author .post-author-body p a:hover,
+.post .post-title a:hover,
+.acr-category-body h5 a:hover,
+.post-single .post-meta a:hover,
+.post-single-pagination:hover h6,
+.post-single-pagination:hover i,
+.sidebar-widget .media h6 a:hover,
+.sidebar-widget.sidebar-list ul li a:hover,
+.listing .listing-author .listing-author-body p a:hover,
+.listing .listing-title a:hover,
+.options-dropdown ul li a:hover,
+.acr-listing-popup-body h5 a:hover{
+  color: #478adc;
+}
+
+.btn-custom::before,
+.acr-arrows.primary-arrows .slick-arrow:hover,
+.acr-arrows.primary-arrows .slick-arrow::after{
+  background-color: #478adc;
+}
+.acr-arrows.primary-arrows .slick-arrow:hover{
+  border-color: #478adc;
+}
+
+/*===============================================
+SECONDARY COLOR Default: #01BBBC
+==============================================*/
+
+.acr-featured-listing .featured-listing-thumb .featured-listing-controls span,
+.cta.cta-2.item2 > i,
+.cta.cta-2.item2 a,
+.infographics-2 .acr-infographic-item > i,
+.infographics-3 .acr-infographic-item > i,
+.infographics-4 .acr-infographic-item > i,
+.infographics-5 .acr-infographic-item > i,
+.infographics-2 .acr-infographic-item a,
+.listing-feature i,
+.acr-compare-feature i,
+.acr-auth-content .auth-nav a.active{
+  color: #01BBBC;
+}
+
+.btn-custom.secondary,
+.main-aside ul .menu-item a:hover, .main-aside ul .menu-item a.active,
+.acr-listing-control:hover, .cta.cta-1,
+.infographics-2 .acr-infographic-item:hover a,
+.acr-single-agent-thumb, .semi-circle:hover,
+.acr-area-price > span,
+.progress-bar,
+.listing-banner-inner .slick-arrow:hover,
+.acr-pricing.hot-plan{
+  background-color: #01BBBC;
+}
+.infographics-2 .acr-infographic-item a{
+  border-color: #01BBBC;
+}
+
+.acr-area-price > span::before{
+  border-top-color: #01BBBC;
+}
+.acr-auth-content .auth-nav a.active{
+  border-bottom-color: #01BBBC;
+}
+
+/*==================================================
+SECONDARY COLOR (Hover & Focus) Default: #00a0a1
+==================================================*/
+.btn-custom.secondary::before,
+.infographics-2 .acr-infographic-item:hover a:hover{
+  background-color: #00a0a1;
+}
+.infographics-2 .acr-infographic-item:hover a:hover{
+  border-color: #00a0a1;
+}
+
+/*==================================================
+SECONDARY COLOR (RGB FORMAT) Default: rgb(1,187,188)
+==================================================*/
+.acr-pricing.hot-plan::before{
+  background-color: rgba(1,187,188,.6);
+}
+.acr-pricing.hot-plan::after{
+  background-color: rgba(1,187,188,.4);
+}

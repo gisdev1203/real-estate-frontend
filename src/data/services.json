@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "icon": "sold",
+        "title": "Real Estate Services",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {
+        "id": 2,
+        "icon": "company",
+        "title": "Business Services",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {
+        "id": 3,
+        "icon": "clipboard",
+        "title": "Tax Services",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {
+        "id": 4,
+        "icon": "checklist",
+        "title": "Mortgage Calculation",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {
+        "id": 5,
+        "icon": "sales-agent",
+        "title": "Consultation Services",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {
+        "id": 6,
+        "icon": "user",
+        "title": "Services for Individuals",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    }
+]

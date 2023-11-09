@@ -1,0 +1,6 @@
+{
+  "clean_urls": true,
+  "routes": [
+    { "src": "/**", "dest": "/index.html" }
+  ]
+}
