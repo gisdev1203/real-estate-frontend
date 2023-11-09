@@ -1,0 +1,4 @@
+# REACT_APP_SERVER_URL = "https://real-estate-backend-rwp6.onrender.com"
+REACT_APP_SERVER_URL = "http://localhost:3003"
+# REACT_APP_SERVER_URL = "https://backend.buyhomeforless.com"
+REACT_APP_CLIENT_URL = "https://harmonious-pothos-946e85.netlify.app"
